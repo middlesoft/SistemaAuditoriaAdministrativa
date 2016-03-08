@@ -285,7 +285,7 @@ Partial Class frm_alb_cosul
         Me.grid.Location = New System.Drawing.Point(12, 68)
         Me.grid.MainView = Me.GridView1
         Me.grid.Name = "grid"
-        Me.grid.Size = New System.Drawing.Size(809, 369)
+        Me.grid.Size = New System.Drawing.Size(706, 293)
         Me.grid.TabIndex = 2
         Me.grid.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.GridView1})
         '
