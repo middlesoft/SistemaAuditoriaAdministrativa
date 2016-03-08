@@ -1,0 +1,80 @@
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\Sistema de Auditoria Administrativa.exe.config
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Interop.MSAdodcLib.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema de Auditoria Administrativa.vbproj.ResolveComReference.cache
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\Sistema de Auditoria Administrativa.exe.manifest
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\Sistema de Auditoria Administrativa.exe
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\Sistema de Auditoria Administrativa.pdb
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\Sistema de Auditoria Administrativa.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\stdole2.tlb
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema de Auditoria Administrativa.vbprojResolveAssemblyReference.cache
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema_de_Auditoria_Administrativa.frm_alb_cosul.resources
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema_de_Auditoria_Administrativa.Main.resources
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema_de_Auditoria_Administrativa.Pincipal.resources
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema_de_Auditoria_Administrativa.SplashScreen.resources
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema_de_Auditoria_Administrativa.Resources.resources
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema de Auditoria Administrativa.vbproj.GenerateResource.Cache
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema de Auditoria Administrativa.exe.licenses
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema de Auditoria Administrativa.exe.manifest
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema de Auditoria Administrativa.exe
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema de Auditoria Administrativa.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\obj\x86\Debug\Sistema de Auditoria Administrativa.pdb
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\eiker\Desktop\Zara\Sistema de Auditoria Administrativa\Sistema de Auditoria Administrativa\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll

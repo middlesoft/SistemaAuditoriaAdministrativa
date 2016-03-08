@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="Sistema de Auditoria Administrativa.exe" version="1.0.0.0" processorArchitecture="x86" type="win32" />
+  <file name="stdole2.tlb" asmv2:size="17920">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FX09ybjI1PyKYRqc1QQShFCAiKc=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{00020430-0000-0000-c000-000000000046}" version="2.0" helpdir="" resourceid="0" flags="HASDISKIMAGE" />
+    <comClass clsid="{0be35203-8f91-11ce-9de3-00aa004bb851}" threadingModel="Both" tlbid="{00020430-0000-0000-c000-000000000046}" progid="StdFont" />
+    <comClass clsid="{0be35204-8f91-11ce-9de3-00aa004bb851}" threadingModel="Apartment" tlbid="{00020430-0000-0000-c000-000000000046}" progid="StdPicture" />
+  </file>
+</assembly>
